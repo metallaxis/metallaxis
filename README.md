@@ -3,6 +3,10 @@
 I like computer programming in C++ and Java (Generally not webbased applications) and i enjoy physics.
 I am attempting to create my own Operating System using assembly and C++.
 
+##Additional Information:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metallaxis)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **metallaxis/metallaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
