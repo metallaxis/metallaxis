@@ -6,7 +6,7 @@ I am attempting to create my own Operating System using assembly and C++.
 ## Additional Information:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metallaxis&show_icons=true&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metallaxis&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metallaxis&layout=pie&theme=neon)
 
 <!--
 **metallaxis/metallaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
