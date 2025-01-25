@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm metallaxis
+
+I like computer programming in C++ and Java (Generally not webbased applications) and i enjoy physics.
+I am attempting to create my own Operating System using assembly and C++.
 
 <!--
 **metallaxis/metallaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
