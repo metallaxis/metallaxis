@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm metallaxis
 
-I like computer programming in C++ and Java (Generally not webbased applications) and i enjoy physics.
-I am attempting to create my own Operating System using assembly and C++.
+I like computer programming in C++, C and Java and i enjoy physics.
+I am learning the nix programming language to make a custom full NixOS setup.
 
 ## Additional Information:
 
